@@ -249,3 +249,13 @@ O commit semântico possui os elementos estruturais abaixo (tipos), que informam
     </tr>
   </tbody>
 </table>
+
+<div align="center">
+  <br/>
+    <div>
+      <h1>Open Source</h1>
+      <sub>Copyright © 2023 - <a href="https://github.com/joaoricardoM">João Ricardo</sub></a>
+    </div>
+    <br/>
+    💖
+</div>
