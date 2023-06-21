@@ -127,7 +127,7 @@ The semantic commit has the structural elements below (types), which inform the 
 
 
 <h1 align="center">
-📄<br>commit patterns - PT-BR
+📄<br>Padrão de Commits - PT-BR
 </h1>
 
 ## Tipo e Descrição
